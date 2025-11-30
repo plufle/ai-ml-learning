@@ -1,0 +1,24 @@
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# System files
+Thumbs.db
+Desktop.ini
