@@ -10,3 +10,4 @@ openpyxl
 Flask
 plotly
 nbformat
+xgboost
